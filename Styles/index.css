@@ -117,6 +117,7 @@ background:#8C57EE0D, #F144AE0D;
 }
 .hero-image {
 margin-right: 240px;
+margin-bottom: -5px;
 }   
 .hero-content h3 {
   color: #0B0223;

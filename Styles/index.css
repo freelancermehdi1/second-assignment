@@ -1,0 +1,69 @@
+                                                    /* Nav Section */
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1920px;
+  height: 130px;
+  background: #FFF;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+  padding: 0px 240px;
+  
+}
+
+.icon-section{
+  display: flex;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 700;
+
+}
+.icon-section p{
+  margin-top: 35px;
+  padding-left: 20px;
+}
+.icon-img {
+  width: 86.041px;
+  height: 40px;
+  margin-top:40px;
+  object-fit: cover;
+}
+
+.nav-item ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  
+}
+.nav-item li a{
+  text-decoration: none;
+  padding: 0px 20px;
+  color: #3C354F;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: normal;
+  
+}
+.nav-right-border {
+  display: flex;
+  padding: 10px 5px;
+  border-radius: 8px;
+  background: rgba(11, 2, 35, 0.10);
+
+}
+
+.nav-right-icon {
+  width: 33.916px;
+  height: 5px;
+}
+.nav-right-border .follow-btn {
+  color: #3C354F;
+  font-size: 20px;
+  font-weight: 500;
+}
+.nav-right-border img {
+  height: 24px;
+  margin-right:15px;
+  
+}

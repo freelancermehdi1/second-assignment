@@ -61,7 +61,7 @@ body {
 .icon-img {
   width: 86.041px;
   height: 40px;
-  margin-top:40px;
+  margin-top:42px;
   object-fit: cover;
 }
 
@@ -139,4 +139,57 @@ margin-bottom: 0px;
 .hero-description {
   margin-top: 0px;
   margin-left: 10px;
-}                                                         
+} 
+
+
+
+
+
+
+
+
+                                                             /* Footer */
+ .footer {
+  max-width: 1900px;
+  background: #0B0223;
+ }                                                            
+.icon-footer-section {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 45px;
+  font-weight: 700;
+  padding-top: 120px;  
+}
+
+.footer-description{
+  display: flex;
+  color: #FFF;
+font-size: 18px;
+font-weight: 600;
+column-gap: 25px;
+justify-content: center;
+}
+.footer-icon{
+  text-align: center;
+height: 40px;
+margin-bottom: 20px;
+margin-top: 20px;
+  
+}
+
+.footer-description2 {
+  display: flex;
+  column-gap: 20px;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.60);
+font-size: 16px;
+font-weight: 500;
+}
+.copyright {
+  color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+padding-bottom: 120px;
+}

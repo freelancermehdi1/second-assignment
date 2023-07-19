@@ -142,6 +142,66 @@ margin-bottom: 0px;
   margin-left: 10px;
 } 
 
+                                                  /* Online Funny Game Section */
+.online-game-content {
+  padding-bottom: 40px;
+  text-align: center;
+  
+}
+.online-game-tittle {
+  color: #0B0223;
+  font-size: 32px;
+  font-weight: 700;
+}
+.online-game-descripton {
+  color: #534C64;
+  font-size: 18px;
+  font-weight: 400;
+}
+.funny-games {
+  background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+  background-clip: text;
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ font-weight: 700;
+
+} 
+.online-games{
+   display: flex;  
+   justify-content: center; 
+   border-radius: 16px;                                  
+} 
+                                              /* Play Instant */
+
+.play-instantly {
+  display: flex;
+  margin-top: 100px;
+  text-align: end;
+  justify-content: space-evenly;
+  
+ }
+ .play-instant-content {
+  margin-top: 200px;
+ }
+ .play-instant-tittle {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px; /* 125% */
+ }
+ .play-instant-description {
+color: #534C64;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+ }                                             
+.play-instantly-2nd-img {
+  border-radius: 8px;
+  position:relative;
+  bottom: 250px;
+  margin-right: 460px;
+  
+}
+
 
 
 
@@ -194,3 +254,4 @@ font-size: 16px;
 font-weight: 500;
 padding-bottom: 120px;
 }
+                                               
